@@ -4,12 +4,11 @@
 <h3>🌍 GIS Projects:</h3>
 <ul>
   <li><b>Port Orange Debris Management System (PODMS)</b> - 
-    <a href="https://github.com/jjones1026/PODMS">Explore the Project</a>
+     <!--<a href="https://www.arcgis.com/apps/dashboards/b12d7142089741d5aea2629f5ddc1345">Explore the Project</a>-->
     <p>This system includes a web map and dashboard designed to manage and visualize debris collection and management processes efficiently, enhancing city response times and planning capabilities.</p>
   </li>
   <li><b>Port Orange Forestry Management Solution</b> - 
-    <a href="https://www.arcgis.com/apps/dashboards/7bd32969e16b494da333ba4db19779f4">Explore</a>
-    <a href="https://www.arcgis.com/apps/dashboards/7bd32969e16b494da333ba4db19779f4">Explore the Project</a>
+    <!-- <a href="https://www.arcgis.com/apps/dashboards/7bd32969e16b494da333ba4db19779f4">Explore the Project</a> -->
     <p>This comprehensive GIS solution facilitates urban forestry management by collecting data on invasive species and plotting fire break lines. It includes collection forms, dashboards, and web maps to ensure effective monitoring and management of forested areas, improving fire safety and ecological health.</p>
     <p><img src="https://github.com/user-attachments/assets/c82e93e3-85b6-4414-a0f3-946180f5cbbc" alt="Forestry Management Dashboard" title="Forestry Management Dashboard"/></p>
   </li>

@@ -6,6 +6,7 @@
   <li><b>Port Orange Debris Management System (PODMS)</b> - 
      <!--<a href="https://www.arcgis.com/apps/dashboards/b12d7142089741d5aea2629f5ddc1345">Explore the Project</a>-->
     <p>This system includes a web map and dashboard designed to manage and visualize debris collection and management processes efficiently, enhancing city response times and planning capabilities.</p>
+    <p><img src="https://github.com/user-attachments/assets/610f5f56-52ac-4a2d-af9d-596f9ee4cb1f" alt="PODMS Dashboard" title="Port Orange Debris Management System Dashboard"/></p>
   </li>
   <li><b>Port Orange Forestry Management Solution</b> - 
     <!-- <a href="https://www.arcgis.com/apps/dashboards/7bd32969e16b494da333ba4db19779f4">Explore the Project</a> -->

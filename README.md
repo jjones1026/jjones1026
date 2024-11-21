@@ -16,8 +16,8 @@
 </ul>
 
 <h3>👨‍💻 Software Development Projects:</h3>
-
-
+- <b>Section Coming Soon!</b>
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -33,16 +33,19 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-
-- <b>Data Structures and Algorithms Practice</b>
+  - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Python](https://github.com/[YourGitHubUsername]/Algorithms-Practice)
 - <b>Full Stack Web App</b>
   - [Community Mapping Solution](https://github.com/[YourGitHubUsername]/Community-Mapping-Web-App)
 - <b>Python Automation Tools</b>
   - [Automated GeoData Processing Scripts](https://github.com/[YourGitHubUsername]/GeoData-Processing-Automation)
+  -->
 
 <h3>📺 Popular YouTube Projects</h3>
+
+<b>SECTION COMING SOON!</b>
+
+<!--
 
 - [Getting Started with GIS](https://www.youtube.com/watch?v=[VideoID])
 - [GIS for Disaster Management: A Case Study](https://www.youtube.com/watch?v=[VideoID])
@@ -53,6 +56,8 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+-->
 
 
 <h2>⚙️ Skills</h2>

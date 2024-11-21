@@ -1,7 +1,7 @@
 <h1>Hi, I'm Wesley! <br/><a href="https://github.com/jjones1026">GIS Developer</a>, <a href="https://www.linkedin.com/in/jjones1026/">Code Developer</a>, <a href="https://www.youtube.com/c/[YourYouTubeChannel]">YouTuber</a></h1>
 
 <h2>🛠️ Projects</h2>
- <h3>🌍 GIS Projects:</h3>
+<h3>🌍 GIS Projects:</h3>
 <ul>
   <li><b>Port Orange Debris Management System (PODMS)</b> - 
     <a href="https://github.com/jjones1026/PODMS">Explore the Project</a>
@@ -10,11 +10,12 @@
   <li><b>Port Orange Forestry Management Solution</b> - 
     <a href="https://github.com/jjones1026/PO-Forestry-Management">Explore the Project</a>
     <p>This comprehensive GIS solution facilitates urban forestry management by collecting data on invasive species and plotting fire break lines. It includes collection forms, dashboards, and web maps to ensure effective monitoring and management of forested areas, improving fire safety and ecological health.</p>
+    <p><img src="https://github.com/user-attachments/assets/c82e93e3-85b6-4414-a0f3-946180f5cbbc" alt="Forestry Management Dashboard" title="Forestry Management Dashboard"/></p>
   </li>
 </ul>
 
-
 <h3>👨‍💻 Software Development Projects:</h3>
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

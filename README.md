@@ -1,4 +1,13 @@
-<h1>Hi, I'm Wesley! <br/><a href="https://github.com/jjones1026">GIS Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Wesley! <br/><a href="https://github.com/jjones1026">GIS Developer</a>, <a href="https://www.linkedin.com/in/jjones1026/">Code Developer</a>, <a href="https://www.youtube.com/c/[YourYouTubeChannel]">YouTuber</a></h1>
+
+<h2>🌍 GIS Projects:</h2>
+
+- <b>Urban Growth Analysis</b>
+  - [Mapping Urban Expansion with Satellite Imagery](https://github.com/[YourGitHubUsername]/Urban-Growth-Analysis)
+- <b>Environmental Impact Studies</b>
+  - [Wetlands Conservation Project](https://github.com/[YourGitHubUsername]/Wetlands-Conservation-Analysis)
+- <b>Disaster Response Mapping</b>
+  - [Hurricane Impact and Response Visualization](https://github.com/[YourGitHubUsername]/Hurricane-Response-Maps)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -18,7 +27,19 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
+- <b>Data Structures and Algorithms Practice</b>
+  - [Practicing DS & Algos in Python](https://github.com/[YourGitHubUsername]/Algorithms-Practice)
+- <b>Full Stack Web App</b>
+  - [Community Mapping Solution](https://github.com/[YourGitHubUsername]/Community-Mapping-Web-App)
+- <b>Python Automation Tools</b>
+  - [Automated GeoData Processing Scripts](https://github.com/[YourGitHubUsername]/GeoData-Processing-Automation)
+
 <h2>📺 Popular YouTube Videos</h2>
+
+- [Getting Started with GIS](https://www.youtube.com/watch?v=[VideoID])
+- [GIS for Disaster Management: A Case Study](https://www.youtube.com/watch?v=[VideoID])
+- [Introduction to Spatial Analysis Techniques](https://www.youtube.com/watch?v=[VideoID])
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -26,20 +47,21 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="[YourYouTubeChannel] | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="[YourGitHubUsername] | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="[YourLinkedInProfile] | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="[instagram] | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/c/[YourYouTubeChannel]
+[github]: https://github.com/jjones1026
+[linkedin]: https://linkedin.com/in/jjones1026
+[instagram]: https://www.instagram.com/wesleyjones9125/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[YourGitHubUsername]/[YourGitHubUsername]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -52,3 +74,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

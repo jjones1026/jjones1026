@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wesley! <br/><a href="https://github.com/jjones1026">GIS Developer</a>, <a href="https://www.linkedin.com/in/jjones1026/">Code Developer</a>, <a href="https://www.youtube.com/c/[YourYouTubeChannel]">YouTuber</a></h1>
+<h1>Hi, I'm Wesley! <br/><a href="https://github.com/jjones1026">GIS Developer</a>, <a href="https://www.linkedin.com/in/jjones1026/">Code Developer</a>, <a href="https://www.youtube.com/c/[YourYouTubeChannel]">Freelancer</a></h1>
 
 <h2>🛠️ Projects</h2>
 <h3>🌍 GIS Projects:</h3>

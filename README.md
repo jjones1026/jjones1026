@@ -17,9 +17,8 @@
 
 <h3>👨‍💻 Software Development Projects:</h3>
 <ul>
-  <li>
-    <b>Debris Management:</b> 
-    <a href="https://github.com/jjones1026/jjones1026">Explore the Project</a>
+  <li><b>Debris Management:</b> 
+    <a href="https://github.com/jjones1026/Debris_Management_Script">Explore the Project</a>
     <p>
       <b>Debris Management Script (.ipynb):</b> 
       This script includes a web scraper for data extraction, ArcPro manipulation, PDF creation, statistics in word, and email sending functionality.

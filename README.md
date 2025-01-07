@@ -23,14 +23,6 @@
       <b>Debris Management Script (.ipynb):</b> 
       This script includes a web scraper for data extraction, ArcPro manipulation, PDF creation, statistics in word, and email sending functionality.
     </p>
-    <p>
-      <img 
-        src="https://github.com/user-attachments/assets/610f5f56-52ac-4a2d-af9d-596f9ee4cb1f" 
-        alt="PODMS Dashboard" 
-        title="Port Orange Debris Management System Dashboard" 
-        style="width: 100%; max-width: 600px; border: 1px solid #ccc;"
-      />
-    </p>
   </li>
 </ul>
 <!--

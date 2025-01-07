@@ -16,7 +16,14 @@
 </ul>
 
 <h3>👨‍💻 Software Development Projects:</h3>
-- <b>Section Coming Soon!</b>
+- <b>Debris Management: https://github.com/jjones1026/jjones1026/edit/main/README.md 
+<ul>
+  <li><b>Port Orange Debris Management System (PODMS)</b> - 
+     <!--<a href="https://www.arcgis.com/apps/dashboards/b12d7142089741d5aea2629f5ddc1345">Explore the Project</a>-->
+    <p>This system includes a web map and dashboard designed to manage and visualize debris collection and management processes efficiently, enhancing city response times and planning capabilities.</p>
+    <p><img src="https://github.com/user-attachments/assets/610f5f56-52ac-4a2d-af9d-596f9ee4cb1f" alt="PODMS Dashboard" title="Port Orange Debris Management System Dashboard"/></p>
+  </li> </b>
+</ul>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
